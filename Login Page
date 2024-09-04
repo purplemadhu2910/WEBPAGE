@@ -1,0 +1,35 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="loginpage.css">
+    </head>
+    
+    <body>
+        <div class="container">
+            <div class="content">
+                <fieldset>
+                    <form action="#">
+                        <h2>Login</h2>
+                        <div class="email">
+                            <input type="text" placeholder="Username">
+                            <i class="fa fa-user"></i>
+                        </div>
+                        <div class="password">
+                            <input type="password" placeholder="Password">
+                            <i class="fa fa-lock"></i>
+                        </div>
+                        <div class="more">
+                            <p>Forgot password?</p>
+                            <span>
+                                <input type="checkbox">
+                                <p>Remember me!</p>
+                            </span>
+                        </div>
+                        <button>Login</button>
+                        <p>Don't have an account? <a href="#">~Register~</a>
+                        </p>
+                    </form>
+                </fieldset>
+            </div>
+        </div>
+    </body>
+</html>
