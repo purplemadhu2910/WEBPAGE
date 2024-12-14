@@ -1,0 +1,17 @@
+body{
+    background-color: pink;
+    text-align: center;
+}
+h1{
+    text-align: center;
+    text-decoration: double;
+}
+button{
+    background-color: palevioletred;
+}
+footer{
+    text-align: center;
+    padding: 10px;
+    background-color: black;
+    color: white;
+}
